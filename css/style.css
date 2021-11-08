@@ -49,3 +49,11 @@ html {
 .bottom {
     align-self: flex-end;
 }
+
+.sp-around {
+    justify-content: space-around;
+}
+
+.sp-between {
+    justify-content: space-between;
+}
