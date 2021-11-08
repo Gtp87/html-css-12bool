@@ -31,3 +31,21 @@ html {
 .margin {
     margin-top: 2em;
 }
+
+.height-100 {
+    height: 100px;
+}
+
+.top,
+.middle,
+.bottom {
+    height: 50px;
+}
+
+.middle {
+    align-self: center;
+}
+
+.bottom {
+    align-self: flex-end;
+}
