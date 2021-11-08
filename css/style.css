@@ -20,6 +20,13 @@ html {
     border: 1px solid blueviolet;
 }
 
+.justify-cont-cent {
+    justify-content: center;
+}
+
+.justify-cont-end {
+    justify-content: flex-end;
+}
 
 .margin {
     margin-top: 2em;
